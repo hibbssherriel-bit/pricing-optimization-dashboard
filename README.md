@@ -1,3 +1,4 @@
+This project demonstrates how pricing strategies impact revenue, profit, and cost efficiency using an Excel-based analytics dashboard.
 # 📊 Pricing Optimization Dashboard
 
 ## 📌 Overview
