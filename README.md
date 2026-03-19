@@ -23,7 +23,7 @@ This project is an Excel-based dashboard designed to analyze product pricing, co
 * Cost structure significantly impacts pricing strategy
 * Adjusting markup directly influences revenue and profitability
 * Certain products may require pricing optimization to improve margins
-
+* A 30% markup strategy produced an average margin of 23%, highlighting the gap between markup and true profitability.
 ---
 
 ## 🛠 Tools Used
